@@ -16,3 +16,7 @@ This project is developed as part of the Software Project Management Laboratory.
 - JavaScript
 - PHP
 - MySQL
+
+## New Feature - Student Search
+
+The system now allows users to search for students using their name or student ID.
